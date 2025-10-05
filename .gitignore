@@ -138,6 +138,7 @@ celerybeat.pid
 .env
 .envrc
 .venv
+.venv/
 env/
 venv/
 ENV/
@@ -205,3 +206,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+/clear_cache.py
+/create_sample_data.py
+/first_time_setup.py
+/fix_collection_issue.py
+/fix_final_collection.py
+/fix_rag_issues.py
+/fix_vector_store.py
+/quick_fix_generative.py
+/test_rag.py

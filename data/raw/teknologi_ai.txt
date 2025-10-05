@@ -1,0 +1,6 @@
+Kecerdasan Buatan (AI) adalah simulasi proses kecerdasan manusia oleh mesin, terutama sistem komputer. 
+AI telah berkembang pesat dalam beberapa tahun terakhir dan digunakan dalam berbagai aplikasi seperti asisten virtual, mobil otonom, dan diagnosis medis.
+
+Machine Learning adalah bagian dari AI yang fokus pada pengembangan algoritma yang dapat belajar dari data. Deep Learning adalah sub-bidang machine learning yang menggunakan jaringan saraf tiruan.
+
+Di Indonesia, perkembangan AI mulai mendapatkan perhatian dari pemerintah dan industri. Beberapa startup lokal已经开始 mengintegrasikan AI dalam produk mereka.
